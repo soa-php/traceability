@@ -1,0 +1,13 @@
+{
+  "name": "soa-php/traceability",
+  "description": "Trace the conversations between your services",
+  "license": "MIT",
+  "require": {
+    "php": "^7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Soa\\Traceability\\": "src/"
+    }
+  }
+}
